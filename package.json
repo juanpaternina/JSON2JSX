@@ -1,0 +1,10 @@
+{
+  "name": "JSONToJSX",
+  "version": "0.0.1",
+  "description": "Write JSON it will be interpreted as JSX",
+  "main": "index.js",
+  "repository": "https://github.com/juanpaternina/JSONToJSX.git",
+  "author": "Juan Paternina <juan@mindz.co>",
+  "license": "MIT",
+  "private": false
+}
